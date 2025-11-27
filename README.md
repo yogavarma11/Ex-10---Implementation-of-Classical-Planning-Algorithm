@@ -1,8 +1,8 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+## ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME:  
-REG NO:
-## Algorithm or Steps Involved:
+#### NAME: YOGAVARMA.B
+##### REG NO:2305002029
+### Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
 Define the actions
@@ -96,6 +96,6 @@ print(plan)
 ### OUTPUT
 441153532-c6fe5f1d-478a-4654-8936-3246d274c8b0
 
-RESULT
+### RESULT
 Thus the program to implement Classical Planning Algorithm has been executed successfully.
 
